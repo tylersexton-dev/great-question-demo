@@ -1,0 +1,39 @@
+Interviewer: I wanted to start by getting a sense of how your team handles user feedback today.
+
+Marcus: It's honestly chaos. Intercom for support, Typeform for surveys, Notion for everything, and nothing talks to anything else. I'm head of design and I spend at least three hours a week just trying to triangulate between these sources.
+
+Interviewer: Three hours a week — that's significant. What are you actually trying to figure out with that time?
+
+Marcus: Whether what we're building is solving the right problem. We shipped a new filtering feature last month. Spent six weeks building it. In retrospect, if I'd synthesized our research from six months ago, I would have seen that filtering wasn't actually the problem — navigation was. We knew that. It was right there in our customer calls. We just never surfaced it in a way that made it into the product decision.
+
+Interviewer: What happened in that process — why didn't the insight make it through?
+
+Marcus: The person who did those interviews left the company. Classic case of knowledge walking out the door. We had the recordings in Zoom, the transcripts in Otter, but nobody sat down to actually synthesize them. When you're moving fast, synthesis feels like a luxury. But then you pay for it later.
+
+Interviewer: How do you think about the value of research time investment?
+
+Marcus: I know research ROI is massive. The stat I always hear is that every dollar in UX research saves six dollars in development. But in practice, when you're in sprint planning and someone says "should we spend three days on research or just build something?" — build usually wins. The pressure is real and the ROI feels abstract when you're staring at a backlog.
+
+Interviewer: Tell me about a time when research actually made it into a decision effectively.
+
+Marcus: Last year we were debating collaboration features. Some of the team was very pro-collaboration, some skeptical. I had done five customer interviews the previous month and managed to pull together a one-pager with quotes. There was one quote — I still remember it — where a customer said: "I feel like I'm using this in secret. My team doesn't know what I'm doing in here." That landed like a bomb in the room. Nobody argued against collaboration after that.
+
+Interviewer: What made that quote so effective?
+
+Marcus: It was visceral. It wasn't abstract. It wasn't "customers want collaboration" — it was this specific human being describing their emotional experience. You can argue with data but you can't argue with someone's emotional reality. When I put that in front of stakeholders, it changed the conversation instantly. One sentence did more work than my entire analysis deck.
+
+Interviewer: What would it take for that to happen consistently, not just occasionally?
+
+Marcus: Speed and accessibility. It needs to be faster to surface an insight than to just guess. Right now, finding the relevant customer quote for a specific decision takes longer than it's worth. If I could search across all our research and get relevant quotes in seconds, I'd do it constantly — in design reviews, in engineering planning, in board prep. Research would become a muscle instead of a special occasion.
+
+Interviewer: Are there workflows you've tried that got close to that?
+
+Marcus: I've tried a Notion database of insights, but maintaining it is a full-time job. The problem is that insights have a half-life — the context decays. A quote from three months ago might still be relevant, but you have to hold so much context to know that. What I'd want is something that does that contextual linking automatically, without me having to be the human glue between all these systems.
+
+Interviewer: Any red lines — things that would make you not trust a tool like this?
+
+Marcus: If it's too confident. Research is inherently uncertain. Qualitative data especially. If something tells me "customers definitely want X" — I'm skeptical. If it says "three out of five customers expressed frustration with X, here's how they described it" — that I can work with. I need the tool to be epistemically humble. Overconfident tools create a false sense of security, and that's worse than no tool at all.
+
+Interviewer: One more — how do you think about sharing research with people who weren't in the room?
+
+Marcus: That's the hardest part. I can walk someone through an interview I was in and convey everything — the pauses, the tone, what they didn't say. I can't do that with a doc. The doc is always a lossy compression. So the people who weren't in the room get a degraded version of reality, and they make decisions based on that. We've tried sending recordings but nobody watches them. We need something in between — structured enough to skim, rich enough to convey the actual human.

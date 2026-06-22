@@ -1,0 +1,39 @@
+Interviewer: Thanks for taking the time today, Sarah. Can you start by telling me about your role and how research fits into your day-to-day?
+
+Sarah: Sure. I'm a senior PM at a fintech startup, about 50 people. I've been here two years. Research is... honestly ad hoc for us. We do interviews when we remember to, but they often just sit in a Google Drive folder somewhere.
+
+Interviewer: Tell me more about that — what happens after an interview?
+
+Sarah: It's kind of depressing, honestly. I'll spend an hour with a customer, get all these incredible insights, write up some notes, put them in a doc, share it in Slack, and maybe five people see it. And then three months later, someone on the design team is making the exact same mistake we already heard customers complain about. We have this knowledge but it doesn't transfer.
+
+Interviewer: Why do you think that is?
+
+Sarah: I think it's a format problem. Nobody has time to read a wall of text. I've tried making highlight reels of calls but that takes forever. I've tried writing executive summaries but they always feel incomplete because I have to leave so much out. There's no good way to say "here's the raw material AND here's what it means." Those two things are always at war with each other.
+
+Interviewer: What would the ideal state look like?
+
+Sarah: Oh god, this is my dream. I want someone to be able to drop in a transcript and get back — not just a summary — but actual insights. What does this tell us about how customers think? What's the pattern across all our interviews, not just this one? And I want the quotes — the specific words customers use. Because when you put those in front of a CEO, they can't argue with them. Facts are harder to ignore than summaries.
+
+Interviewer: You mentioned patterns across interviews. Is that something you try to do now?
+
+Sarah: I try. I have this massive spreadsheet where I tag themes. But it takes forever, it's not systematic, and two different PMs will tag the same thing differently. And the tagging is always happening weeks after the interview, when I've already forgotten the context. The emotional weight of the conversation is completely gone by then.
+
+Interviewer: You said emotional weight — can you say more about that?
+
+Sarah: Yeah. In my notes it becomes really flat. "Customer was frustrated with onboarding." That doesn't capture that she was almost in tears because she'd lost two weeks of setup time. The emotional weight gets lost in translation every single time. And that emotional weight is actually what gets things prioritized in a roadmap.
+
+Interviewer: What about the cost of getting research wrong?
+
+Sarah: We shipped a filtering feature last quarter. Spent six weeks building it. If I'd synthesized our research from six months earlier, I would have seen that filtering wasn't the problem — navigation was. We knew that. It was right there in our customer calls. We just never surfaced it in a way that made it into the product decision.
+
+Interviewer: If a tool like this existed, what would make you trust it?
+
+Sarah: Honesty, weirdly. If it says "medium confidence" on an insight, I actually trust it more than if it says everything is definitely true. I want it to tell me when it's not sure. And I want to be able to drill down to the source — show me where in the transcript that insight came from. If I can't verify it, I won't present it.
+
+Interviewer: Any concerns about AI involvement in the analysis?
+
+Sarah: I worry about hallucination, obviously. But honestly my bigger worry is oversimplification — turning something nuanced into a bullet point that sounds good but misses the point. The worst research summaries I've ever read were done by humans who were too rushed to actually think. AI could be just as bad as that. Or way better. Depends entirely on how it's built.
+
+Interviewer: Last question — what would success look like six months after adopting something like this?
+
+Sarah: I'd want to answer "what do customers say about X?" in 30 seconds. Search across everything we've ever learned, get a confident answer with evidence. Right now that takes me half a day and I still wouldn't be confident in the answer.
